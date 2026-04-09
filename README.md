@@ -1,5 +1,10 @@
 # 🚀 Production-Grade RAG System
 
+
+
+https://github.com/user-attachments/assets/1929246c-1d8d-49fb-9137-08cc7c4e8d1f
+
+
 A production-ready Retrieval-Augmented Generation (RAG) system focused on **hybrid retrieval, measurable quality improvements, and low-latency performance**.
 Designed with evaluation-driven iteration and production best practices.
 
